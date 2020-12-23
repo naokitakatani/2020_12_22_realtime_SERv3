@@ -186,4 +186,5 @@ dmypy.json
 # profiling data
 .prof
 output
+saved_models
 # End of https://www.toptal.com/developers/gitignore/api/python,linux,macos
